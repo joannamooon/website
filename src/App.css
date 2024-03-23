@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap");
+
+body.light {
+    background-color: #ffffff; 
+    color: #000000;
+    transition: background 0.5s;
+}
+
+body.light a.links {
+    color: #0000EE;
+}
+
+body.dark {
+    background-color: #191825; 
+    color: #ffffff; 
+    transition: background 0.5s;
+}
+
+body.dark a.links {
+    color: #E95793; 
+}
+
+.hello {
+    max-width: 150vh;
+    font-family: 'Fira Code', monospace;
+    margin-left: 50vh;
+    margin-top: 10vh;
+    margin-right: 50vh;
+}
+
+.theme-switcher {
+    font-family: 'Fira Code', monospace;
+}
+
+.links {
+    margin-right: 1%;
+    text-decoration: none;
+}
+
+
+
