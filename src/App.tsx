@@ -35,7 +35,7 @@ function App() {
             <a href="mailto:y9moon@uwaterloo.ca" className="links">{email}</a>
         <h5><hr />{projects}</h5>
         <a href="https://joannamooon.github.io/ascii-heart/" className='links'>{heart}</a>
-        <a href="https://github.com/joannamooon" className="links">{github}</a>
+        <a href="https://github.com/joannamooon" className='links'>{more}</a>
         <h5><hr />{experiences}</h5>
         <p>{"- ios developer @ Zibis Inc."}</p>
         <p>{"- website developer @ MathSoc UWaterloo"}</p>
